@@ -1,5 +1,3 @@
-Projeto de Game Design Educativo — Estruturas de Dados II
-
 ## 1. Identificação do projeto
 
 **Disciplina:** Estruturas de Dados 2
