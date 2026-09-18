@@ -10,6 +10,7 @@ Projeto de Game Design Educativo — Estruturas de Dados II
 - Gabriella Rocha Gonçalves Cardoso
 - Miguel Henrico de Araujo França
 - Juan Carlos Siqueira de Lima
+- Arthur Ferreira
 
 ---
 
