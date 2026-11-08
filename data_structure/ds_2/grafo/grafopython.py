@@ -1,14 +1,15 @@
 rede = {
+    
     "Juan": ["Renan", "Alan", "Pedro"],
-    "Renan": ["Juan", "Miguel"],
-    "Alan": ["Juan", "Pedro", "Vitor"],
+    "Renan": ["Juan", "Alan", "Miguel"],
+    "Alan": ["Juan", "Renan", "Pedro", "Gaby"],
     "Miguel": ["Renan", "Paulo", "Julio"],
     "Paulo": ["Miguel", "Julio"],
-    "Vitor": ["Alan", "Gaby", "Laura"],
+    "Vitor": ["Pedro", "Gaby", "Laura"],
     "Julio": ["Miguel", "Paulo", "Laura"],
-    "Pedro": ["Juan", "Alan", "Gaby"],
-    "Gaby": ["Vitor", "Pedro", "Laura"],
-    "Laura": ["Vitor", "Julio", "Gaby"]
+    "Pedro": ["Juan", "Alan", "Vitor"],
+    "Gaby": ["Alan", "Vitor", "Laura"],
+    "Laura": ["Vitor", "Gaby", "Julio"]
 }
 
 tamanho = len(rede)
